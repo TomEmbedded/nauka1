@@ -1,0 +1,13 @@
+bufor dla każdego dev osobno
+progress bar też
+przełąćzanie tabów
+
+obsługa modbus
+obsługa pozyton
+
+
+modbus
+RTU
+TCP
+
+zmienna wskazująca na wspólne

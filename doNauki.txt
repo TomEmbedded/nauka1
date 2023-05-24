@@ -1,0 +1,14 @@
+Algorytmy zachłanne 
+kod Cezara, to algorytm
+ Algorytm Dijkstry - wyliczanie liczb pierwszych
+ Notacja ++ jest operatorem
+ Co to jest wątek w języku C
+ Pseudokod to inaczej
+ Drzewo binarne
+ Sito Eratostenesa wykorzystuje się do
+ Algorytmem nieużywającym metody dziel i zwyciężaj 
+ Nazwa języka programowania ADA wywodzi się od
+ Przestrzenie nazw
+ throw
+ std::logic_error
+ ThrowingObject
